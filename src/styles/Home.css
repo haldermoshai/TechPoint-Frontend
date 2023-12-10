@@ -1,0 +1,32 @@
+.categories {
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid rgb(33, 107, 101);
+    border-radius: 5px;
+    background-color: rgb(240, 255, 251);
+    color:rgb(199, 141, 84);
+}
+.categories h1 {
+    margin-bottom: 20px;
+}
+.cateList {
+    display: flex;
+    justify-content: center;
+}
+.deal {
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid rgb(199, 141, 84);
+    border-radius: 5px;
+}
+.dodLogo {
+    height: 500px;
+    width: 50%;
+}
+.products {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

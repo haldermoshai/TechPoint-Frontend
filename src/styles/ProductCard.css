@@ -1,0 +1,36 @@
+.productCard {
+    width: 250px; height: 315px;
+    border: 1px solid rgb(153, 153, 153);
+    background-color: white;
+    border-radius: 5px;
+    padding: 7px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.productCard p {
+    margin-block: 5px;
+    text-align: center;
+}
+.productCard button {
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 7px;
+    padding: 8px;
+    font-size: 15px;
+}
+.cart {
+    background-color: rgb(224, 224, 121);
+    color: rgb(68, 68, 33);
+}
+.buy {
+    background-color: rgb(0, 128, 0);
+    color: rgb(255, 255, 255);
+}
+.productImage img {
+    width: 190px;
+    height: 180px;
+}

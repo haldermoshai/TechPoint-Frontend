@@ -1,0 +1,29 @@
+.contactDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://images.unsplash.com/photo-1525513688408-aef73a11a340?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dhttps://images.unsplash.com/photo-1525513688408-aef73a11a340?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contact {
+    width: 700px; height: 350px;
+    margin: auto;
+    background-image: linear-gradient(to right, rgba(170, 180, 126, 0.897) , rgba(131, 169, 180, 0.63));
+    background-color: rgba(22, 73, 29, 0.507);
+    border: 1px solid  rgba(22, 73, 29, 0.507);
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+.contact h1 {
+    color: rgb(35, 64, 68);
+    margin-bottom: 15px;
+}
